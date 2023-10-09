@@ -12,4 +12,7 @@ RUN npm build
 
 CMD ["npm", "start"]
 
+
+
+
 EXPOSE 3000
